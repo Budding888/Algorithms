@@ -1,3 +1,4 @@
+算法和数据结构是高效代码和良好软件设计的基础。要成为一名优秀的程序员，就需要创建和设计出色的算法。该存储库的目标是演示如何以最简单，最优雅的方式实现常见的数据结构和算法。
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Java CI with Gradle](https://github.com/williamfiset/Algorithms/workflows/Java%20CI%20with%20Gradle/badge.svg)
 ![README Checker](https://github.com/williamfiset/Algorithms/workflows/README%20URL%20Checker/badge.svg)
